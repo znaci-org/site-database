@@ -8,5 +8,5 @@
   </preConditions>
 
 <include file="znaci-initial.sql" relativeToChangelogFile="true" />
+<include file="znaci-20230430.sql" relativeToChangelogFile="true" />
 </databaseChangeLog>
-
