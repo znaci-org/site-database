@@ -15,7 +15,7 @@ REPLACE INTO `knjige` VALUES
 
 
 REPLACE INTO `sadrzaji` VALUES 
-((24700,'','','Cela knjiga (detalji u pripremi)',1,'1',1,1039,0),
+(24700,'','','Cela knjiga (detalji u pripremi)',1,'1',1,1039,0),
 (24800,'','','Cela knjiga (detalji u pripremi)',1,'1',1,1040,0),
 (24900,'','','Cela knjiga (detalji u pripremi)',1,'1',1,1041,0);
 
