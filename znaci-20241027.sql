@@ -3,7 +3,7 @@
 -- changeset liquibase:znaci-org-20241027
 
 REPLACE INTO `fotografije` VALUES 
-(37,222,'3. četa 1. bataljona 4. Proleterske Crnogorske Brigade. Osoba koja leži dole centar desno je komandir čete Raško Vukosavović. Vojnici ove jedinice su iz Crmnice, Crna Gora.',0,'1943-08-00',0,-10108)
+(37,222,'3. četa 1. bataljona 4. Proleterske Crnogorske Brigade. Osoba koja leži dole centar desno je komandir čete Raško Vukosavović. Vojnici ove jedinice su iz Crmnice, Crna Gora.',0,'1943-08-00',0,-10108);
 
 REPLACE INTO `izdavaci` VALUES 
 (263,'Ruska Akademija Nauka i Umetnosti','Moskva'),
