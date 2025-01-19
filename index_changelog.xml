@@ -23,4 +23,5 @@
 <include file="znaci-20241201.sql" relativeToChangelogFile="true" />
 <include file="znaci-20241201a.sql" relativeToChangelogFile="true" />
 <include file="znaci-20250102.sql" relativeToChangelogFile="true" />
+<include file="znaci-20250119.sql" relativeToChangelogFile="true" />
 </databaseChangeLog>
