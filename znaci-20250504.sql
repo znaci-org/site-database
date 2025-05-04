@@ -3,7 +3,7 @@
 -- changeset liquibase:znaci-org-20250504
 
 REPLACE INTO `sadrzaji` VALUES 
-(28800,'','','KAZALO',III,'III',5,1072,0),
+(28800,'','','KAZALO',1,'III',5,1072,0),
 (28801,'','','Uvodna beseda Skupnosti borcev Gorenjskega odreda',1,'1',11,1072,0),
 (28802,'','','GORENJSKA 1941-1945',3,'3',13,1072,0),
 (28803,'','','l. del ODRED, NJEGOVI BORCI IN POVELJNIKI',15,'15',25,1072,0),
