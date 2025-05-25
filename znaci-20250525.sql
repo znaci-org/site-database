@@ -2,7 +2,7 @@
 
 -- changeset liquibase:znaci-org-202050524
 
-REPLACE INTO `izdavaci` VALUES fs
+REPLACE INTO `izdavaci` VALUES
 (281,'Združenje za vrednote NOB Lenart','Maribor');
 
 
