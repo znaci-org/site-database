@@ -51,4 +51,5 @@
 <include file="znaci-20251004.sql" relativeToChangelogFile="true" />
 <include file="znaci-20251005.sql" relativeToChangelogFile="true" />
 <include file="znaci-20251005a.sql" relativeToChangelogFile="true" />
+<include file="znaci-20251116.sql" relativeToChangelogFile="true" />
 </databaseChangeLog>
