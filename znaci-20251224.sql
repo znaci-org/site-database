@@ -3,8 +3,8 @@
 -- changeset liquibase:znaci-org-202051224
 
 REPLACE INTO `izdavaci` VALUES
-(287,'Elsevier','Amsterdam');
-(288,'Okrajinski odbor zveze borcev Radovljica','Radovljica')
+(287,'Elsevier','Amsterdam'),
+(288,'Okrajinski odbor zveze borcev Radovljica','Radovljica');
 
 REPLACE INTO `knjige` VALUES 
 (678,2571,'Was Tito’s Yugoslavia totalitarian?','Sergej Flere','Rudi Klanjšek','','',287,2014,'Communist and Post-Communist Studies',47,0,0,6,9),
