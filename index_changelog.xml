@@ -72,4 +72,5 @@
 <include file="znaci-20260810.sql" relativeToChangelogFile="true" />
 <include file="znaci-20260906.sql" relativeToChangelogFile="true" />
 <include file="znaci-20261004.sql" relativeToChangelogFile="true" />
+<include file="znaci-20261018.sql" relativeToChangelogFile="true" />
 </databaseChangeLog>
